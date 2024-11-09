@@ -1,11 +1,7 @@
 test2 dd
-<<<<<<< HEAD
 99ßß
 
 Jlj;kl
 
 
 hjkh
-=======
-99ßß
->>>>>>> parent of f9da131... 99
